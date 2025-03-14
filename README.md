@@ -1,6 +1,6 @@
 #### Olá meu nome é Allan Bruno de Souza Bahr(madebyallanbahr)
 Atualmente sou Back-end Júnior <br>
-Trabalho como Jovem Aprendiz na @melhorenvio<br>
+Trabalho como Desenvolvedor na @melhorenvio<br>
 <br>
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Javascript Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
