@@ -1,12 +1,5 @@
-#### Olá meu nome é Allan Bruno de Souza Bahr
-Atualmente sou Desenvolvedor Back-end na @melhorenvio <br>
-Trabalho com PHP, Laravel.
+#### Hi, my name is Allan!
+Actually i`m a **Software Developer** in @melhorenvio working with PHP, Laravel.<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madebyallanbahr&show_icons=true&theme=dark)
-<br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=madebyallanbahr&theme=dark)
-<br>
-
-Acesse meu perfil de projetos pessoais:
-<br>
+Here is my personal github account to follow in.
 [Github](https://www.github.com/madebyallanbahr)
